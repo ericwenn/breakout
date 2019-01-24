@@ -1,0 +1,4 @@
+gym==0.10.9
+atari-py==0.1.7
+array2gif==1.0.4
+keras-rl==0.4.2
